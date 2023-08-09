@@ -67,7 +67,7 @@ class MyApp extends StatelessWidget {
 ## Gallery
 
 <p align="center">
-  <img width="538" height="588" src="https://github.com/Abel1027/riching_text/raw/main/gallery/riching_text.jpg">
+  <img width="300" height="600" src="https://github.com/Abel1027/riching_text/raw/main/gallery/riching_text.jpg">
 </p>
 
 ## Author
