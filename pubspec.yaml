@@ -1,5 +1,5 @@
 name: riching_text
-description: Rich text to easily highlight words/phrases within.
+description: Build a rich text by providing a text and the words/phrases you want to highlight within.
 version: 0.1.0
 repository: https://github.com/Abel1027/riching_text
 
