@@ -1,6 +1,6 @@
 name: riching_text
 description: Build a rich text by providing a text and the words/phrases you want to highlight within.
-version: 0.1.0
+version: 0.1.1
 repository: https://github.com/Abel1027/riching_text
 
 environment:
